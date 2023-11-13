@@ -1,5 +1,3 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onmidnightblue&theme=default)
-<br />
 ##### BLOG
 <a href="https://onmidnightblue.notion.site/FrontEnd-a6d84cb2fd8e413ea62ea3046eb15f19">Notion</a>
 
