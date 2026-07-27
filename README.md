@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2052%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -19,6 +21,12 @@ Saturday                 4 commits           █░░░░░░░░░░�
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
