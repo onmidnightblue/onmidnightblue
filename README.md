@@ -25,7 +25,7 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 56 mins (51.47%)
+⏱ AI Coding Time: 2 hrs 56 mins (47.89%)
 
 ✍️ 275 lines written by AI, 189 lines written by hand (59.27% AI-written)
 
