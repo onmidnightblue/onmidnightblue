@@ -25,18 +25,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 38 mins (88.91%)
+⏱ AI Coding Time: 2 hrs 38 mins (95.23%)
 
-✍️ 0 lines written by AI, 86 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 121 lines written by hand (0.0% AI-written)
 
 🔤 491,673 Input Tokens, 491,673 Output Tokens
 
-💵 $9.34 Estimated AI Cost This Week
+💵 $8.85 Estimated AI Cost This Week
 
 🧠 2 AI Sessions, 226 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
