@@ -4,20 +4,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                27 commits          ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-🌆 Daytime                49 commits          █████████████░░░░░░░░░░░░   52.13 % 
-🌃 Evening                16 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+🌞 Morning                27 commits          ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+🌆 Daytime                50 commits          █████████████░░░░░░░░░░░░   52.63 % 
+🌃 Evening                16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Tuesday                  25 commits          ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Wednesday                21 commits          ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Thursday                 24 commits          ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-Friday                   14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Monday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Tuesday                  25 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Wednesday                21 commits          ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Thursday                 24 commits          ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+Friday                   14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -25,7 +25,24 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 6 mins (100.0%)
+
+✍️ 28 lines written by AI, 14 lines written by hand (66.67% AI-written)
+
+🔤 183,810 Input Tokens, 160,944 Output Tokens
+
+💵 $3.03 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 86 AI Prompts
+
+Sonnet                   34 lines            █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 66.67% of written lines came from AI
+📚 Verbose Prompter — average 7,213 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🚀 High AI Trust — 41.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
