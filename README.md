@@ -25,23 +25,23 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 22 mins (95.96%)
+⏱ AI Coding Time: 9 mins (100.0%)
 
-✍️ 196 lines written by AI, 1 lines written by hand (99.49% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 9,153,461 Input Tokens, 43,940 Output Tokens
+🔤 635,192 Input Tokens, 7,040 Output Tokens
 
-💵 $93.73 Estimated AI Cost This Week
+💵 $6.70 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 39 AI Prompts
+🧠 3 AI Sessions, 17 AI Prompts
 
-Claude                   205 lines           █████████████████████████   100.00 % 
+Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.49% of written lines came from AI
-📝 Concise Prompter — average 124 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 40.23% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 101 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
